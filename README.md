@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/naushikafaridi24/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/naushikafaridi24/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0746-min-cost-climbing-stairs](https://github.com/naushikafaridi24/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/naushikafaridi24/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/naushikafaridi24/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/naushikafaridi24/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [2109-adding-spaces-to-a-string](https://github.com/naushikafaridi24/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 ## String
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/naushikafaridi24/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/naushikafaridi24/LEETCODE/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
