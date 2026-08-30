@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/naushikafaridi24/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/naushikafaridi24/LEETCODE/tree/master/0389-find-the-difference) |
 | [2109-adding-spaces-to-a-string](https://github.com/naushikafaridi24/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 ## Simulation
