@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/naushikafaridi24/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/naushikafaridi24/LEETCODE/tree/master/0155-min-stack) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/naushikafaridi24/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/naushikafaridi24/LEETCODE/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/naushikafaridi24/LEETCODE/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/naushikafaridi24/LEETCODE/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
