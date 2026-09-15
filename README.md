@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/naushikafaridi24/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/naushikafaridi24/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naushikafaridi24/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/naushikafaridi24/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/naushikafaridi24/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/naushikafaridi24/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/naushikafaridi24/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -96,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/naushikafaridi24/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/naushikafaridi24/LEETCODE/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/naushikafaridi24/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/naushikafaridi24/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/naushikafaridi24/LEETCODE/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/naushikafaridi24/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/naushikafaridi24/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
