@@ -1,31 +1,31 @@
 class MinStack {
-Stack<Integer> normalst;
-Stack<Integer> minst;
+Stack<Integer>normalstk;
+Stack<Integer>minstk;
     public MinStack() {
-        normalst=new Stack<>();
-        minst= new Stack<>();
+        normalstk= new Stack<>();
+        minstk= new Stack<>();
     }
     
     public void push(int value) {
-        normalst.push(value);
-        if(minst.isEmpty() || minst.peek()>=value){
-            minst.push(value);
+        normalstk.push(value);
+        if(minstk.isEmpty() || minstk.peek()>=value){
+            minstk.push(value);
         }
     }
     
     public void pop() {
-        int temp= normalst.pop();
-        if(temp==minst.peek()){
-            minst.pop();
+        int temp=normalstk.pop();
+        if(temp==minstk.peek()){
+            minstk.pop();
         }
     }
     
     public int top() {
-        return normalst.peek();
+        return normalstk.peek();
     }
     
     public int getMin() {
-        return minst.peek();
+        return minstk.peek();
     }
 }
 
