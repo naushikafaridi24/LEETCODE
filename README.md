@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/naushikafaridi24/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/naushikafaridi24/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/naushikafaridi24/LEETCODE/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/naushikafaridi24/LEETCODE/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/naushikafaridi24/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [2109-adding-spaces-to-a-string](https://github.com/naushikafaridi24/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/naushikafaridi24/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/naushikafaridi24/LEETCODE/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/naushikafaridi24/LEETCODE/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/naushikafaridi24/LEETCODE/tree/master/0392-is-subsequence) |
 | [1544-make-the-string-great](https://github.com/naushikafaridi24/LEETCODE/tree/master/1544-make-the-string-great) |
 | [2109-adding-spaces-to-a-string](https://github.com/naushikafaridi24/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 ## Simulation
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/naushikafaridi24/LEETCODE/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/naushikafaridi24/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 ## Prefix Sum
 |  |
