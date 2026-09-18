@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/naushikafaridi24/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/naushikafaridi24/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naushikafaridi24/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/naushikafaridi24/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/naushikafaridi24/LEETCODE/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/naushikafaridi24/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/naushikafaridi24/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/naushikafaridi24/LEETCODE/tree/master/0704-binary-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/naushikafaridi24/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
