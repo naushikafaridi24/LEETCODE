@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/naushikafaridi24/LEETCODE/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/naushikafaridi24/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/naushikafaridi24/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
+| [0896-monotonic-array](https://github.com/naushikafaridi24/LEETCODE/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/naushikafaridi24/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/naushikafaridi24/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/naushikafaridi24/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
