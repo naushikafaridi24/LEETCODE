@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/naushikafaridi24/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/naushikafaridi24/LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/naushikafaridi24/LEETCODE/tree/master/0392-is-subsequence) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/naushikafaridi24/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/naushikafaridi24/LEETCODE/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/naushikafaridi24/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/naushikafaridi24/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/naushikafaridi24/LEETCODE/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/naushikafaridi24/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/naushikafaridi24/LEETCODE/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/naushikafaridi24/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/naushikafaridi24/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/naushikafaridi24/LEETCODE/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
