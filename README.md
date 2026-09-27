@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/naushikafaridi24/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/naushikafaridi24/LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/naushikafaridi24/LEETCODE/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/naushikafaridi24/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/naushikafaridi24/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/naushikafaridi24/LEETCODE/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/naushikafaridi24/LEETCODE/tree/master/1768-merge-strings-alternately) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/naushikafaridi24/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/naushikafaridi24/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/naushikafaridi24/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 ## Sorting
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/naushikafaridi24/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naushikafaridi24/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [3870-count-commas-in-range](https://github.com/naushikafaridi24/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/naushikafaridi24/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
