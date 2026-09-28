@@ -9,7 +9,6 @@ class Solution {
             }
             if((ch>='a' && ch<='z') || (ch>='0' && ch<= '9')){
                 v= v+ch;
-
             }
         }
         for(int i= v.length()-1; i>=0; i--){
