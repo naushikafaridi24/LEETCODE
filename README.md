@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/naushikafaridi24/LEETCODE/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/naushikafaridi24/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/naushikafaridi24/LEETCODE/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/naushikafaridi24/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/naushikafaridi24/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/naushikafaridi24/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/naushikafaridi24/LEETCODE/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/naushikafaridi24/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naushikafaridi24/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [3870-count-commas-in-range](https://github.com/naushikafaridi24/LEETCODE/tree/master/3870-count-commas-in-range) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/naushikafaridi24/LEETCODE/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/naushikafaridi24/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/naushikafaridi24/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
