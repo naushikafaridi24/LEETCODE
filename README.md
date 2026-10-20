@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/naushikafaridi24/LEETCODE/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/naushikafaridi24/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/naushikafaridi24/LEETCODE/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/naushikafaridi24/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/naushikafaridi24/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/naushikafaridi24/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/naushikafaridi24/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/naushikafaridi24/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/naushikafaridi24/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/naushikafaridi24/LEETCODE/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/naushikafaridi24/LEETCODE/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/naushikafaridi24/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/naushikafaridi24/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/naushikafaridi24/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
