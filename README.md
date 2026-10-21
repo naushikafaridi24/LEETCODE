@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/naushikafaridi24/LEETCODE/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/naushikafaridi24/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/naushikafaridi24/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
+| [0766-toeplitz-matrix](https://github.com/naushikafaridi24/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/naushikafaridi24/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/naushikafaridi24/LEETCODE/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/naushikafaridi24/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/naushikafaridi24/LEETCODE/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/naushikafaridi24/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/naushikafaridi24/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/naushikafaridi24/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naushikafaridi24/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/naushikafaridi24/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
