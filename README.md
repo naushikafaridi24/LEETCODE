@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/naushikafaridi24/LEETCODE/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/naushikafaridi24/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/naushikafaridi24/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 ## Prefix Sum
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/naushikafaridi24/LEETCODE/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/naushikafaridi24/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/naushikafaridi24/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naushikafaridi24/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [3870-count-commas-in-range](https://github.com/naushikafaridi24/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/naushikafaridi24/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/naushikafaridi24/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naushikafaridi24/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/naushikafaridi24/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/naushikafaridi24/LEETCODE/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/naushikafaridi24/LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
